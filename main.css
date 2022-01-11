@@ -1,0 +1,23 @@
+:root {
+    font-size: medium;
+    font-family: "American Typewriter";
+}
+
+body {
+    margin: 3rem;
+    padding: 1rem;
+    background-color: #735422;
+    color: orange;
+}
+
+.title {
+    font-size: x-large;
+}
+
+.main {
+    font-size: medium;
+}
+
+.button {
+    color: cyan;
+}
